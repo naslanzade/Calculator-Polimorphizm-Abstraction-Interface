@@ -1,0 +1,14 @@
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\bin\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.exe
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\bin\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.deps.json
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\bin\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.runtimeconfig.json
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\bin\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.runtimeconfig.dev.json
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\bin\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.dll
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\bin\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.pdb
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\obj\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.csproj.AssemblyReference.cache
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\obj\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\obj\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.AssemblyInfoInputs.cache
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\obj\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.AssemblyInfo.cs
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\obj\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.csproj.CoreCompileInputs.cache
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\obj\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.dll
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\obj\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.pdb
+C:\Users\novra\OneDrive\Desktop\Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface\obj\Debug\netcoreapp3.1\Polimorphizm-Abstraction_Interface.genruntimeconfig.cache

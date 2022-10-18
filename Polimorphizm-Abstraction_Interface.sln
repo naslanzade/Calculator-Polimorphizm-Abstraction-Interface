@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorphizm-Abstraction_Interface", "Polimorphizm-Abstraction_Interface\Polimorphizm-Abstraction_Interface.csproj", "{74AE2DE2-7892-4480-BAD5-223A6C83480C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{BC2ABFF4-438E-44DD-911E-1A8311C3B078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74AE2DE2-7892-4480-BAD5-223A6C83480C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AE2DE2-7892-4480-BAD5-223A6C83480C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AE2DE2-7892-4480-BAD5-223A6C83480C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AE2DE2-7892-4480-BAD5-223A6C83480C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2ABFF4-438E-44DD-911E-1A8311C3B078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2ABFF4-438E-44DD-911E-1A8311C3B078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2ABFF4-438E-44DD-911E-1A8311C3B078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2ABFF4-438E-44DD-911E-1A8311C3B078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD903574-5423-4453-9A55-3B45F999DF95}
+	EndGlobalSection
+EndGlobal
